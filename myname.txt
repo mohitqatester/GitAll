@@ -1,3 +1,5 @@
 hello world
 My name is mohit kumar
 Hii
+
+$ git remote add origin https://github.com/mohitqatester/GitAll.git
